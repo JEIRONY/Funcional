@@ -286,7 +286,7 @@ let menuu = `
 ║
 ║❥𝙱𝚊𝚗𝚎𝚊𝚍𝚘: ✘ 
 ║
-║❥𝙶𝚛𝚞𝚙𝚘: https://chat.whatsapp.com/CFSvSOGCnuL3vk4Js1DWI2
+║❥𝙶𝚛𝚞𝚙𝚘: https://chat.whatsapp.com/CFSvSOGCnuL3vk4JI2
 ║
 ║❥𝚚𝚞𝚒𝚎𝚛𝚎 𝚝𝚎𝚗𝚎𝚛 𝚞𝚗 𝚋𝚘𝚝 𝚊𝚌𝚝𝚒𝚟𝚘 24/7: http://portal.acidicnodes.com
 ║
@@ -477,7 +477,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
              {
              urlButton: {
                displayText: 'Grupo Bot', 
-               url: 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+               url: 'https://chat.whatsapp.com/Lus9S60MAB4Wf2T7k'
              }
 
            },
@@ -549,18 +549,18 @@ function clockString(ms) {
 
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, como esta"
+  res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 」 \n║❥𝙷𝚘𝚕𝚊, como esta"
   if (time >= 4) {
-    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buena tarde espero que tenga linda tarde☀️i"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 」 \n║❥𝙷𝚘𝚕𝚊, buena tarde espero que tenga linda tarde☀️i"
   }
   if (time > 10) {
-    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenos días espero que tenga lindo día✨ "
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 」 \n║❥𝙷𝚘𝚕𝚊, buenos días espero que tenga lindo día✨ "
   }
   if (time >= 15) {
-    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenas noches espero que tenga linda noche✨"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓  」 \n║❥𝙷𝚘𝚕𝚊, buenas noches espero que tenga linda noche✨"
   }
   if (time >= 18) {
-    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenos dias espero que lindo dias✨"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓  」 \n║❥𝙷𝚘𝚕𝚊, buenos dias espero que lindo dias✨"
   }
   return res
 }
