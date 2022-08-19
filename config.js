@@ -1,15 +1,11 @@
 //=============『 owner 』================== //
-global.owner = ['5492266466080', '51935116539','5218992059110']
-global.mods = ['972529277406'] 
+global.owner = ['573152139466']
+global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𑄒𑄴𑄬𑄲𑄰𑅆ڜel rebelde𖠄' //Nombre del creador
-global.numberowner = '5492266466080'
-global.nameowner2 = '░▒▓█►─═  𝙼𝙸𝚂𝙰𝙴𝙻 ═─◄█▓▒░' //Nombre del creador2
-global.numberowner2 = '51935116539'
-global.nameowner2 = '⸸ 𝐓𝐢𝐎  𝐂𝐀𝐑𝐋𝐎𝐒  ⸸ 𝚯𝐅𝐂 ⸸ ' //Nombre del creador3
-global.numberowner2 = '5218992059110'
+global.nameowner = 'JEIRONY' //Nombre del creador
+global.numberowner = '573152139466'
 
 
 global.instagram = ''
@@ -19,9 +15,9 @@ global.pulsa = '085212023766'
 global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝚆𝙷𝙰𝚃𝙱𝙾𝚃𝟺𝟸𝟶-𝙼𝙳'
-global.gc = 'https://facebook.com/groups/721802642266362/'
-global.web = 'https://github.com/Hyzerr' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
+global.namebot = '𝚆𝙷𝙰𝚃𝙱𝙾𝚃'
+global.gc = 'https://facebook.com/group62/'
+global.web = 'https://github.com/H' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Pantalla y más 』============//
@@ -29,9 +25,9 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //cambia a
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //cambiar esto también
 global.lolkey = 'Papah-Chan' //asi que es facil remplazarlo, por ejemplo el apikey esta caducado :v
 global.zenzkey = 'BagasPrdn' //cambiar a su apikey si caduca
-global.wm = '𝐓𝐇𝐄 𝐖𝐇𝐀𝐓𝐁𝐎𝐓420-𝐌𝐃'
+global.wm = '𝐓𝐇𝐄 𝐖𝐇𝐀𝐓𝐁𝐎𝐓'
 global.watermark = wm
-global.wm2 = '                     「 𝐓𝐇𝐄 𝐖𝐇𝐀𝐓𝐁𝐎𝐓420-𝐌𝐃⁩ 」'
+global.wm2 = '                     「 𝐓𝐇𝐄 𝐖𝐇𝐀𝐓𝐁𝐎𝐓⁩ 」'
 global.wm3 = 'superbot-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -43,7 +39,7 @@ global.benar = 'correcta ✅\n'
 global.salah = 'incorecta ❌\n'
 global.stiker_wait = '𝙲𝚛𝚎𝚊𝚗𝚍𝚘 𝚜𝚝𝚒𝚌𝚔𝚎𝚛...'
 global.packname = 'Toma tu sticker'
-global.author = '© 𝚃𝙷𝙴 𝚆𝙷𝙰𝚃𝙱𝙾𝚃-𝙼𝙳'
+global.author = '© 𝚃𝙷𝙴 𝚆𝙷𝙰𝚃𝙱𝙾𝚃'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
